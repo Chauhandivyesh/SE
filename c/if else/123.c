@@ -1,0 +1,10 @@
+#include<stdio.h>
+main(){
+	int i,n;
+	
+	for(i=0;i<=10;i++)
+	{
+	printf("enter your number %d) \n");
+	}
+	
+}
